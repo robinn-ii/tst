@@ -19,7 +19,7 @@
   </td>
     <td width="50%" style="padding: 20px; text-align: center;">
       <img width="" height="" alt="IMG_0406" src="https://github.com/user-attachments/assets/e420b98e-0052-4f0f-bd95-45ec30293056" />
-    >$\color{#A6B396}{\textsf{Thee}}$ $\color{#72A984}{\texttt{Jason}}$ $\color{#6BA16D}{\texttt{Todd}}$ $\color{#6BA16D}{\texttt{Of}}$ $\color{#F4F4AD}{\texttt{PonyTown:}}$<br></strong>
+     <strong style="color: #834E74;">$\color{#A6B396}{\textsf{Thee}}$ $\color{#72A984}    {\texttt{Jason}}$      $\color{#6BA16D}{\texttt{Todd}}$ $\color{#6BA16D}{\texttt{Of}}$ $\color{#F4F4AD}{\texttt{PonyTown!}}$<br></strong>
       <br>
     </td>
   </tr>
