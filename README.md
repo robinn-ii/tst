@@ -3,6 +3,7 @@
   <tr>
     <td width="30%" style="padding: 15px; border-right: 2px solid #E1A97D;">
       <img width="" height="" alt="Untitled10_20261009165148" src="https://github.com/user-attachments/assets/ce9f47b2-9e32-4662-88fe-9ab76c57aa11" />
+      <div align="center">
       <a href="https://github.com/title-town">@𝘵𝘪𝘵𝘭𝘦-𝘵𝘰𝘸𝘯</a><br>
       <a href="https://github.com/pt-contributers">@𝘱𝘵-𝘤𝘰𝘯𝘵𝘳𝘪𝘣𝘶𝘵𝘦𝘳𝘴</a><br>
       <a href="https://github.com/charactersofpt">@𝘤𝘩𝘢𝘳𝘢𝘤𝘵𝘦𝘳𝘴𝘰𝘧𝘱𝘵</a><br>
@@ -18,8 +19,9 @@
       <a href="https://github.com/Ponytowns-rewards">@𝘗𝘰𝘯𝘺𝘵𝘰𝘸𝘯𝘴-𝘳𝘦𝘸𝘢𝘳𝘥𝘴
   </td>
     <td width="50%" style="padding: 20px; text-align: center;">
+      <div align="center">
+     <strong style="color: #834E74;">$\color{#A6B396}{\textsf{Thee}}$ $\color{#72A984}    {\texttt{Jason}}$ $\color{#6BA16D}{\texttt{Todd}}$ $\color{#6BA16D}{\texttt{Of}}$ $\color{#F4F4AD}{\texttt{PonyTown!}}$<br></strong>
       <img width="" height="" alt="IMG_0406" src="https://github.com/user-attachments/assets/e420b98e-0052-4f0f-bd95-45ec30293056" />
-     <strong style="color: #834E74;">$\color{#A6B396}{\textsf{Thee}}$ $\color{#72A984}    {\texttt{Jason}}$      $\color{#6BA16D}{\texttt{Todd}}$ $\color{#6BA16D}{\texttt{Of}}$ $\color{#F4F4AD}{\texttt{PonyTown!}}$<br></strong>
       <br>
     </td>
   </tr>
