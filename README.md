@@ -1,4 +1,6 @@
 <div align="center">
+<img width="" height="" alt="Untitled13_20261009171717" src="https://github.com/user-attachments/assets/cce753c4-26f3-4313-bc0a-72d144d65d5b" />
+
 <table style="border: 2px solid #E1A97D; border-radius: 8px;">
   <tr>
     <td width="30%" style="padding: 15px; border-right: 2px solid #E1A97D;">
@@ -33,3 +35,4 @@ $\color{#E5DC9A}{\texttt{────୨ৎ────}}$
     </td>
   </tr>
 </table>
+<img width="" height="" alt="Untitled13_20261009171753" src="https://github.com/user-attachments/assets/eb587e77-f2f3-46c5-8e7f-32ddcf9c36b1" />
