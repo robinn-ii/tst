@@ -22,6 +22,7 @@
       <div align="center">
      <strong style="color: #834E74;">$\color{#E23F5D}{\textsf{Thee}}$ $\color{#DB554A}    {\texttt{Jason}}$ $\color{#D08150}{\texttt{Todd}}$ $\color{#E2A263}{\texttt{Of}}$ $\color{#E4B77E}{\texttt{PonyTown!}}$<br></strong>
       <img width="" height="" alt="IMG_0406" src="https://github.com/user-attachments/assets/e420b98e-0052-4f0f-bd95-45ec30293056" />
+<strong style="color: #834E74;">$\color{#E23F5D}{\textsf{More}}$ $\color{#DB554A}    {\texttt{links}}$ $\color{#D08150}{\texttt{4}}$ $\color{#E2A263}{\texttt{u}}$ $\color{#E4B77E}{\texttt{guys!}}$<br></strong>
       <br>
     </td>
   </tr>
