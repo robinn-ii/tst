@@ -23,6 +23,11 @@
      <strong style="color: #834E74;">$\color{#E23F5D}{\textsf{Thee}}$ $\color{#DB554A}    {\texttt{Jason}}$ $\color{#D08150}{\texttt{Todd}}$ $\color{#E2A263}{\texttt{Of}}$ $\color{#E4B77E}{\texttt{PonyTown!}}$<br></strong>
       <img width="" height="" alt="IMG_0406" src="https://github.com/user-attachments/assets/e420b98e-0052-4f0f-bd95-45ec30293056" />
 <strong style="color: #834E74;">$\color{#E23F5D}{\textsf{More}}$ $\color{#DB554A}    {\texttt{links}}$ $\color{#D08150}{\texttt{4}}$ $\color{#E2A263}{\texttt{u}}$ $\color{#E4B77E}{\texttt{guys!}}$<br></strong>
+$\color{#E5DC9A}{\texttt{────୨ৎ────}}$
+  <a href="https://sebvsene.atabook.org">𝘈𝘵𝘢</a><br>
+      <a href="https://hood-net.straw.page">𝘚𝘵𝘳𝘢𝘸</a><br>
+      <a href="https://pronouns.cc/@hood-net">𝘗𝘙𝘕𝘚.𝘊𝘊</a><br>
+      <a href="https://hood-net.carrd.co">𝘊𝘈𝘙𝘙𝘋</a><br>
       <br>
     </td>
   </tr>
