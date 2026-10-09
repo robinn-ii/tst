@@ -1,1 +1,1 @@
-<img class="art" src="https://cdn.phototourl.com/member/2026-10-09-35067884-3682-43fe-ba16-6896552cf30d.gif" alt="Animated art">
+<img width="" height="" alt="IMG_0402" src="https://github.com/user-attachments/assets/dcea2fb2-6d6d-4a37-a8a3-fec01ff17070" />
